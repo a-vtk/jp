@@ -1,0 +1,10 @@
+.dockerignore
+Dockerfile
+
+.gitignore
+.git
+!.git/HEAD
+!.git/refs
+
+_build/
+*.md

@@ -1,0 +1,6 @@
+-sname job_planner
+
+-setcookie job_planner_cookie
+
++K true
++A30
